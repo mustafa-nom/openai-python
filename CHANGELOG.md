@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.59.5 (2025-01-08)
+
+Full Changelog: [v1.59.4...v1.59.5](https://github.com/openai/openai-python/compare/v1.59.4...v1.59.5)
+
+### Bug Fixes
+
+* **client:** only call .close() when needed ([#1992](https://github.com/openai/openai-python/issues/1992)) ([bdfd699](https://github.com/openai/openai-python/commit/bdfd699b99522e83f7610b5f98e36fe43ddf8338))
+
 ## 1.59.4 (2025-01-07)
 
 Full Changelog: [v1.59.3...v1.59.4](https://github.com/openai/openai-python/compare/v1.59.3...v1.59.4)
